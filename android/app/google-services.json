@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129952328812",
+    "project_id": "qlthuvien-ff034",
+    "storage_bucket": "qlthuvien-ff034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129952328812:android:51c38c3261a62c2d837c49",
+        "android_client_info": {
+          "package_name": "com.example.qlthuvien"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYSvQ31wrszjOjjHUxKw33ZsmNcJerkKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
